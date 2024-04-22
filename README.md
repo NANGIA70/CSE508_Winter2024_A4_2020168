@@ -1,1 +1,1 @@
-# CSE508_Winter2024_A3_2020168-
+The ipynb file IR_A4_2020168_Try2 contains the notebook for the code to do fine-tune gpt2 for summarization task on Amazon's Reviews Dataet. The pdf file CSE508_Winter2024_A4_2020168_Report contains the report of the assignment with a the cutom dataset class and the final rouge scores.
